@@ -60,7 +60,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Naya event listener add karna jo Gmail pe redirect kare
         yesButton.addEventListener("click", function () {
-            window.location.href = "mailto:pguj6399@gmail.com?subject=Haan maaf kar dia yr 🥹&body=Maff kar dia sab thik no worry ab sa every weekend bat kra ga thodi don't worry 😂😭 😍❤️";
+            window.location.href = "mailto:pguj6399@gmail.com?subject=Haan maaf kar dia yr 🥹&body=Maff kar dia sab thik no worry ab sa every weekend bat kra ga thodi don't worry 😂😭 😍❤️ 
+                Soch kya rhi... ho baj do send p click kar do top right corner..";
         });
     });
 
